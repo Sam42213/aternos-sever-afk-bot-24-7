@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "An automated Mineflayer bot to keep Aternos servers active.",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.21.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
