@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 // Configuration - Change these to match your server details
 const config = {
-    host: 'yourserver.aternos.me', // Replace with your Aternos IP
-    port: 25565,                  // Default Minecraft port
+    host: 'hexpvp6.aternos.me', // Replace with your Aternos IP
+    port: 47899,                  // Default Minecraft port
     username: 'AFK_Bot'            // The username your bot will use
 };
 
